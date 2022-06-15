@@ -1,0 +1,41 @@
+[
+  {
+    "package": "badger",
+    "oncran": true
+  },
+  {
+    "package": "dlstats",
+    "oncran": true
+  },
+  {
+    "package": "emojifont",
+    "oncran": true
+  },
+  {
+    "package": "ggimage",
+    "oncran": true
+  },
+  {
+    "package": "ggplotify",
+    "oncran": true
+  },
+  {
+    "package": "hexSticker",
+    "oncran": true
+  },
+  {
+    "package": "meme",
+    "oncran": true
+  },
+  {
+    "package": "rvcheck",
+    "oncran": true
+  },
+  {
+    "package": "shadowtext",
+    "oncran": true
+  },
+  {
+    "package": "enrichplot"
+  }
+]
