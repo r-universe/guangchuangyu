@@ -48,8 +48,3 @@
 	url = https://github.com/guangchuangyu/shadowtext
 	shallow = true
 	registered = true
-[submodule "enrichplot"]
-	path = enrichplot
-	url = https://github.com/guangchuangyu/enrichplot
-	shallow = true
-	registered = true
