@@ -34,5 +34,8 @@
   {
     "package": "shadowtext",
     "oncran": true
+  },
+  {
+    "package": "enrichplot"
   }
 ]
