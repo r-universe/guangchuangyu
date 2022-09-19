@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "dlstats",
+    "oncran": true
+  },
+  {
     "package": "emojifont",
     "oncran": true
   },
