@@ -8,11 +8,6 @@
 	url = https://github.com/guangchuangyu/badger
 	shallow = true
 	registered = true
-[submodule "dlstats"]
-	path = dlstats
-	url = https://github.com/guangchuangyu/dlstats
-	shallow = true
-	registered = true
 [submodule "emojifont"]
 	path = emojifont
 	url = https://github.com/guangchuangyu/emojifont
