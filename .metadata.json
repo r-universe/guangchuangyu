@@ -1,17 +1,10 @@
 [
   {
-    "package": "meme",
+    "package": "badger",
     "oncran": true
   },
   {
-    "package": "enrichplot"
-  },
-  {
-    "package": "hexSticker",
-    "oncran": true
-  },
-  {
-    "package": "rvcheck",
+    "package": "dlstats",
     "oncran": true
   },
   {
@@ -19,7 +12,10 @@
     "oncran": true
   },
   {
-    "package": "badger",
+    "package": "enrichplot"
+  },
+  {
+    "package": "ggimage",
     "oncran": true
   },
   {
@@ -27,15 +23,19 @@
     "oncran": true
   },
   {
+    "package": "hexSticker",
+    "oncran": true
+  },
+  {
+    "package": "meme",
+    "oncran": true
+  },
+  {
+    "package": "rvcheck",
+    "oncran": true
+  },
+  {
     "package": "shadowtext",
-    "oncran": true
-  },
-  {
-    "package": "ggimage",
-    "oncran": true
-  },
-  {
-    "package": "dlstats",
     "oncran": true
   }
 ]
