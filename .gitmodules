@@ -3,29 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "badger"]
-	path = badger
-	url = https://github.com/guangchuangyu/badger
+[submodule "meme"]
+	path = meme
+	url = https://github.com/guangchuangyu/meme
 	shallow = true
 	registered = true
-[submodule "dlstats"]
-	path = dlstats
-	url = https://github.com/guangchuangyu/dlstats
-	shallow = true
-	registered = true
-[submodule "emojifont"]
-	path = emojifont
-	url = https://github.com/guangchuangyu/emojifont
-	shallow = true
-	registered = true
-[submodule "ggimage"]
-	path = ggimage
-	url = https://github.com/guangchuangyu/ggimage
-	shallow = true
-	registered = true
-[submodule "ggplotify"]
-	path = ggplotify
-	url = https://github.com/guangchuangyu/ggplotify
+[submodule "enrichplot"]
+	path = enrichplot
+	url = https://github.com/guangchuangyu/enrichplot
 	shallow = true
 	registered = true
 [submodule "hexSticker"]
@@ -33,14 +18,24 @@
 	url = https://github.com/guangchuangyu/hexsticker
 	shallow = true
 	registered = true
-[submodule "meme"]
-	path = meme
-	url = https://github.com/guangchuangyu/meme
-	shallow = true
-	registered = true
 [submodule "rvcheck"]
 	path = rvcheck
 	url = https://github.com/guangchuangyu/rvcheck
+	shallow = true
+	registered = true
+[submodule "emojifont"]
+	path = emojifont
+	url = https://github.com/guangchuangyu/emojifont
+	shallow = true
+	registered = true
+[submodule "badger"]
+	path = badger
+	url = https://github.com/guangchuangyu/badger
+	shallow = true
+	registered = true
+[submodule "ggplotify"]
+	path = ggplotify
+	url = https://github.com/guangchuangyu/ggplotify
 	shallow = true
 	registered = true
 [submodule "shadowtext"]
@@ -48,8 +43,13 @@
 	url = https://github.com/guangchuangyu/shadowtext
 	shallow = true
 	registered = true
-[submodule "enrichplot"]
-	path = enrichplot
-	url = https://github.com/guangchuangyu/enrichplot
+[submodule "ggimage"]
+	path = ggimage
+	url = https://github.com/guangchuangyu/ggimage
+	shallow = true
+	registered = true
+[submodule "dlstats"]
+	path = dlstats
+	url = https://github.com/guangchuangyu/dlstats
 	shallow = true
 	registered = true
