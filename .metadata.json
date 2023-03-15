@@ -35,6 +35,10 @@
     "oncran": true
   },
   {
+    "package": "scatterpie",
+    "oncran": true
+  },
+  {
     "package": "shadowtext",
     "oncran": true
   }
