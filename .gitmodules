@@ -50,6 +50,9 @@
 [submodule "shinyTempSignal"]
 	path = shinyTempSignal
 	url = https://github.com/cran/shinyTempSignal
+[submodule "wikiprofiler"]
+	path = wikiprofiler
+	url = https://github.com/cran/wikiprofiler
 [submodule "yulab.utils"]
 	path = yulab.utils
 	url = https://github.com/cran/yulab.utils
