@@ -14,9 +14,6 @@
 [submodule "enrichplot"]
 	path = enrichplot
 	url = https://github.com/guangchuangyu/enrichplot
-[submodule "fanyi"]
-	path = fanyi
-	url = https://github.com/cran/fanyi
 [submodule "ggfun"]
 	path = ggfun
 	url = https://github.com/cran/ggfun
