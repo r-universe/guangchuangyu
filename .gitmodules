@@ -44,9 +44,6 @@
 [submodule "shadowtext"]
 	path = shadowtext
 	url = https://github.com/guangchuangyu/shadowtext
-[submodule "shinyTempSignal"]
-	path = shinyTempSignal
-	url = https://github.com/cran/shinyTempSignal
 [submodule "wikiprofiler"]
 	path = wikiprofiler
 	url = https://github.com/cran/wikiprofiler
