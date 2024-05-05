@@ -11,18 +11,12 @@
 [submodule "emojifont"]
 	path = emojifont
 	url = https://github.com/guangchuangyu/emojifont
-[submodule "enrichplot"]
-	path = enrichplot
-	url = https://github.com/guangchuangyu/enrichplot
 [submodule "ggimage"]
 	path = ggimage
 	url = https://github.com/guangchuangyu/ggimage
 [submodule "ggplotify"]
 	path = ggplotify
 	url = https://github.com/guangchuangyu/ggplotify
-[submodule "ggtreeDendro"]
-	path = ggtreeDendro
-	url = https://git.bioconductor.org/packages/ggtreeDendro
 [submodule "gson"]
 	path = gson
 	url = https://github.com/cran/gson
