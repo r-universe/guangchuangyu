@@ -35,9 +35,3 @@
 [submodule "shadowtext"]
 	path = shadowtext
 	url = https://github.com/guangchuangyu/shadowtext
-[submodule "wikiprofiler"]
-	path = wikiprofiler
-	url = https://github.com/cran/wikiprofiler
-[submodule "yulab.utils"]
-	path = yulab.utils
-	url = https://github.com/cran/yulab.utils
