@@ -23,6 +23,9 @@
 [submodule "hexSticker"]
 	path = hexSticker
 	url = https://github.com/guangchuangyu/hexsticker
+[submodule "ivolcano"]
+	path = ivolcano
+	url = https://github.com/cran/ivolcano
 [submodule "meme"]
 	path = meme
 	url = https://github.com/guangchuangyu/meme
