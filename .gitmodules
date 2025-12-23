@@ -11,6 +11,9 @@
 [submodule "emojifont"]
 	path = emojifont
 	url = https://github.com/guangchuangyu/emojifont
+[submodule "enrichit"]
+	path = enrichit
+	url = https://github.com/cran/enrichit
 [submodule "ggplotify"]
 	path = ggplotify
 	url = https://github.com/guangchuangyu/ggplotify
