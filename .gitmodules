@@ -14,6 +14,9 @@
 [submodule "enrichit"]
 	path = enrichit
 	url = https://github.com/cran/enrichit
+[submodule "gglycan"]
+	path = gglycan
+	url = https://github.com/cran/gglycan
 [submodule "ggplotify"]
 	path = ggplotify
 	url = https://github.com/guangchuangyu/ggplotify
