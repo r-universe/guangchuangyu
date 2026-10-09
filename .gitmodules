@@ -23,9 +23,6 @@
 [submodule "ggtangle"]
 	path = ggtangle
 	url = https://github.com/cran/ggtangle
-[submodule "gson"]
-	path = gson
-	url = https://github.com/cran/gson
 [submodule "hexSticker"]
 	path = hexSticker
 	url = https://github.com/guangchuangyu/hexsticker
